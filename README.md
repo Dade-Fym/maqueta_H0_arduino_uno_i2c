@@ -4,3 +4,4 @@ Existen dos conceptos basicos la salida digital o pines de arduino y la salida l
 Este codigo esta pensado para uan maqueta ferroviaria que maneje los desvios con servomotores basicos para arduino
 Los semaforos se controlan añadiendo una salida digital y asociandola a la misma salida logica creada en el codigo
 Se pueden asociar varios servomotores y salidas digitales a una salida logica
+Lleva una pantalla de 16x2 para mostrar el estado de los desvios
