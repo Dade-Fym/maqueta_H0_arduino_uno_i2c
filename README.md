@@ -7,3 +7,4 @@ Se pueden asociar varios servomotores y salidas digitales a una salida logica
 Lleva una pantalla de 16x2 para mostrar el estado de los desvios
 La v_1 las salidas y entradas se asocian a un pin digital de arduino y los servomotores a un expansor I2C PCA9685
 La V_2.2 las asalidas y entradas digitales estan asociadas a un expansor de entradas analogicas I2c, un PCF8574
+En la carpeta comprimida estan las librerias que funcionan con este codigo
