@@ -5,3 +5,5 @@ Este codigo esta pensado para uan maqueta ferroviaria que maneje los desvios con
 Los semaforos se controlan añadiendo una salida digital y asociandola a la misma salida logica creada en el codigo
 Se pueden asociar varios servomotores y salidas digitales a una salida logica
 Lleva una pantalla de 16x2 para mostrar el estado de los desvios
+La v_1 las salidas y entradas se asocian a un pin digital de arduino y los servomotores a un expansor I2C PCA9685
+La V_2.2 las asalidas y entradas digitales estan asociadas a un expansor de entradas analogicas I2c, un PCF8574
